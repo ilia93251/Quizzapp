@@ -1,0 +1,15 @@
+C:\Users\user\RiderProjects\PROJECT\QuestionClass\bin\Debug\net7.0\QuestionClass.deps.json
+C:\Users\user\RiderProjects\PROJECT\QuestionClass\bin\Debug\net7.0\QuestionClass.dll
+C:\Users\user\RiderProjects\PROJECT\QuestionClass\bin\Debug\net7.0\QuestionClass.pdb
+C:\Users\user\RiderProjects\PROJECT\QuestionClass\bin\Debug\net7.0\AnswerClass.dll
+C:\Users\user\RiderProjects\PROJECT\QuestionClass\bin\Debug\net7.0\AnswerClass.pdb
+C:\Users\user\RiderProjects\PROJECT\QuestionClass\obj\Debug\net7.0\QuestionClass.csproj.AssemblyReference.cache
+C:\Users\user\RiderProjects\PROJECT\QuestionClass\obj\Debug\net7.0\QuestionClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\RiderProjects\PROJECT\QuestionClass\obj\Debug\net7.0\QuestionClass.AssemblyInfoInputs.cache
+C:\Users\user\RiderProjects\PROJECT\QuestionClass\obj\Debug\net7.0\QuestionClass.AssemblyInfo.cs
+C:\Users\user\RiderProjects\PROJECT\QuestionClass\obj\Debug\net7.0\QuestionClass.csproj.CoreCompileInputs.cache
+C:\Users\user\RiderProjects\PROJECT\QuestionClass\obj\Debug\net7.0\QuestionClass.csproj.CopyComplete
+C:\Users\user\RiderProjects\PROJECT\QuestionClass\obj\Debug\net7.0\QuestionClass.dll
+C:\Users\user\RiderProjects\PROJECT\QuestionClass\obj\Debug\net7.0\refint\QuestionClass.dll
+C:\Users\user\RiderProjects\PROJECT\QuestionClass\obj\Debug\net7.0\QuestionClass.pdb
+C:\Users\user\RiderProjects\PROJECT\QuestionClass\obj\Debug\net7.0\ref\QuestionClass.dll

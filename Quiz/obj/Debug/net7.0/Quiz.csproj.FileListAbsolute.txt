@@ -1,0 +1,17 @@
+C:\Users\user\RiderProjects\PROJECT\Quiz\bin\Debug\net7.0\Quiz.deps.json
+C:\Users\user\RiderProjects\PROJECT\Quiz\bin\Debug\net7.0\Quiz.dll
+C:\Users\user\RiderProjects\PROJECT\Quiz\bin\Debug\net7.0\Quiz.pdb
+C:\Users\user\RiderProjects\PROJECT\Quiz\obj\Debug\net7.0\Quiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\RiderProjects\PROJECT\Quiz\obj\Debug\net7.0\Quiz.AssemblyInfoInputs.cache
+C:\Users\user\RiderProjects\PROJECT\Quiz\obj\Debug\net7.0\Quiz.AssemblyInfo.cs
+C:\Users\user\RiderProjects\PROJECT\Quiz\obj\Debug\net7.0\Quiz.csproj.CoreCompileInputs.cache
+C:\Users\user\RiderProjects\PROJECT\Quiz\obj\Debug\net7.0\Quiz.dll
+C:\Users\user\RiderProjects\PROJECT\Quiz\obj\Debug\net7.0\refint\Quiz.dll
+C:\Users\user\RiderProjects\PROJECT\Quiz\obj\Debug\net7.0\Quiz.pdb
+C:\Users\user\RiderProjects\PROJECT\Quiz\obj\Debug\net7.0\ref\Quiz.dll
+C:\Users\user\RiderProjects\PROJECT\Quiz\bin\Debug\net7.0\AnswerClass.dll
+C:\Users\user\RiderProjects\PROJECT\Quiz\bin\Debug\net7.0\QuestionClass.dll
+C:\Users\user\RiderProjects\PROJECT\Quiz\bin\Debug\net7.0\AnswerClass.pdb
+C:\Users\user\RiderProjects\PROJECT\Quiz\bin\Debug\net7.0\QuestionClass.pdb
+C:\Users\user\RiderProjects\PROJECT\Quiz\obj\Debug\net7.0\Quiz.csproj.AssemblyReference.cache
+C:\Users\user\RiderProjects\PROJECT\Quiz\obj\Debug\net7.0\Quiz.csproj.CopyComplete

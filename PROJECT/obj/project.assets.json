@@ -1,0 +1,152 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "AnswerClass/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/AnswerClass.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/AnswerClass.dll": {}
+        }
+      },
+      "QuestionClass/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "AnswerClass": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/QuestionClass.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/QuestionClass.dll": {}
+        }
+      },
+      "Quiz/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "AnswerClass": "1.0.0",
+          "QuestionClass": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Quiz.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Quiz.dll": {}
+        }
+      },
+      "User/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Quiz": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/User.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/User.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AnswerClass/1.0.0": {
+      "type": "project",
+      "path": "../AnswerClass/AnswerClass.csproj",
+      "msbuildProject": "../AnswerClass/AnswerClass.csproj"
+    },
+    "QuestionClass/1.0.0": {
+      "type": "project",
+      "path": "../QuestionClass/QuestionClass.csproj",
+      "msbuildProject": "../QuestionClass/QuestionClass.csproj"
+    },
+    "Quiz/1.0.0": {
+      "type": "project",
+      "path": "../Quiz/Quiz.csproj",
+      "msbuildProject": "../Quiz/Quiz.csproj"
+    },
+    "User/1.0.0": {
+      "type": "project",
+      "path": "../User/User.csproj",
+      "msbuildProject": "../User/User.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "AnswerClass >= 1.0.0",
+      "Quiz >= 1.0.0",
+      "User >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\user\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\user\\RiderProjects\\PROJECT\\PROJECT\\PROJECT.csproj",
+      "projectName": "PROJECT",
+      "projectPath": "C:\\Users\\user\\RiderProjects\\PROJECT\\PROJECT\\PROJECT.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\user\\RiderProjects\\PROJECT\\PROJECT\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "C:\\Users\\user\\RiderProjects\\PROJECT\\AnswerClass\\AnswerClass.csproj": {
+              "projectPath": "C:\\Users\\user\\RiderProjects\\PROJECT\\AnswerClass\\AnswerClass.csproj"
+            },
+            "C:\\Users\\user\\RiderProjects\\PROJECT\\Quiz\\Quiz.csproj": {
+              "projectPath": "C:\\Users\\user\\RiderProjects\\PROJECT\\Quiz\\Quiz.csproj"
+            },
+            "C:\\Users\\user\\RiderProjects\\PROJECT\\User\\User.csproj": {
+              "projectPath": "C:\\Users\\user\\RiderProjects\\PROJECT\\User\\User.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Users\\user\\.dotnet\\sdk\\7.0.407\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

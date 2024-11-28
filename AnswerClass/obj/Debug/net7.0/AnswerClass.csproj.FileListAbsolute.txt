@@ -1,0 +1,11 @@
+C:\Users\user\RiderProjects\PROJECT\AnswerClass\bin\Debug\net7.0\AnswerClass.deps.json
+C:\Users\user\RiderProjects\PROJECT\AnswerClass\bin\Debug\net7.0\AnswerClass.dll
+C:\Users\user\RiderProjects\PROJECT\AnswerClass\bin\Debug\net7.0\AnswerClass.pdb
+C:\Users\user\RiderProjects\PROJECT\AnswerClass\obj\Debug\net7.0\AnswerClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\RiderProjects\PROJECT\AnswerClass\obj\Debug\net7.0\AnswerClass.AssemblyInfoInputs.cache
+C:\Users\user\RiderProjects\PROJECT\AnswerClass\obj\Debug\net7.0\AnswerClass.AssemblyInfo.cs
+C:\Users\user\RiderProjects\PROJECT\AnswerClass\obj\Debug\net7.0\AnswerClass.csproj.CoreCompileInputs.cache
+C:\Users\user\RiderProjects\PROJECT\AnswerClass\obj\Debug\net7.0\AnswerClass.dll
+C:\Users\user\RiderProjects\PROJECT\AnswerClass\obj\Debug\net7.0\refint\AnswerClass.dll
+C:\Users\user\RiderProjects\PROJECT\AnswerClass\obj\Debug\net7.0\AnswerClass.pdb
+C:\Users\user\RiderProjects\PROJECT\AnswerClass\obj\Debug\net7.0\ref\AnswerClass.dll

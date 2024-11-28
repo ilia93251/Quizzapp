@@ -1,0 +1,30 @@
+[
+  {
+    "Id": 1,
+    "Username": "nana",
+    "Password": "123",
+    "Points": 0,
+    "QuizIds": []
+  },
+  {
+    "Id": 2,
+    "Username": "saba",
+    "Password": "123",
+    "Points": 0,
+    "QuizIds": []
+  },
+  {
+    "Id": 3,
+    "Username": "ilia",
+    "Password": "999",
+    "Points": 0,
+    "QuizIds": []
+  },
+  {
+    "Id": 4,
+    "Username": "mamachemi",
+    "Password": "555",
+    "Points": 0,
+    "QuizIds": []
+  }
+]
